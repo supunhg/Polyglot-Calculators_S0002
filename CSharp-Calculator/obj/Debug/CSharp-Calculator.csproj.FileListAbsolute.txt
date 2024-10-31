@@ -1,0 +1,10 @@
+C:\Users\maste\source\repos\CSharp-Calculator\bin\Debug\CSharp-Calculator.exe.config
+C:\Users\maste\source\repos\CSharp-Calculator\bin\Debug\CSharp-Calculator.exe
+C:\Users\maste\source\repos\CSharp-Calculator\bin\Debug\CSharp-Calculator.pdb
+C:\Users\maste\source\repos\CSharp-Calculator\obj\Debug\CSharp-Calculator.csproj.AssemblyReference.cache
+C:\Users\maste\source\repos\CSharp-Calculator\obj\Debug\CSharp_Calculator.Form1.resources
+C:\Users\maste\source\repos\CSharp-Calculator\obj\Debug\CSharp_Calculator.Properties.Resources.resources
+C:\Users\maste\source\repos\CSharp-Calculator\obj\Debug\CSharp-Calculator.csproj.GenerateResource.cache
+C:\Users\maste\source\repos\CSharp-Calculator\obj\Debug\CSharp-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\maste\source\repos\CSharp-Calculator\obj\Debug\CSharp-Calculator.exe
+C:\Users\maste\source\repos\CSharp-Calculator\obj\Debug\CSharp-Calculator.pdb
